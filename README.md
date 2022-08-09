@@ -9,7 +9,7 @@ Products Display\
 Add to Cart\
 Cart display with total sum and remove option\
 Settings\
-Success\
+Success
 
 
 
